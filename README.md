@@ -8,7 +8,7 @@
   
 </head>
   
-<body style="padding:20px;">
+<body style="margin:20px;">
   
   <div><br>
     <a href="https://github.com/vsommah">
