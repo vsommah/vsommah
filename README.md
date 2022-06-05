@@ -12,11 +12,12 @@
   
   <div>
     <a href="https://github.com/vsommah">
-    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&count_private=true"/><br>
-    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/><br>
+    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&count_private=true"/>
+    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/>
   </div>
-        
-  ##
+  
+  &nbsp;  
+  ## 
     
   <div align="center"><br>
     <img align="center" alt="VHS-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
