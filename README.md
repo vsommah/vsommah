@@ -3,13 +3,13 @@
 - 🔭 Sou **engenheiro civil** e **professor de inglês**
 - 🌱 Atualmente estudando **Python**, **Java** e **Algoritmos**
 - 🤝 Gostaria de fazer parte de uma rede legal de contatos para **perguntar**, **ajudar** e **conversar** sobre esse novo começo de carreira 
-
+  
 <div>
   <a href="https://github.com/vsommah">
-  <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&count_private=true"/>
   <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/>
-</div> 
-
+</div>
+  
 <br><br>
 
 ##
@@ -29,3 +29,5 @@
 </div>
   
 ##
+  
+![Snake animation](https://github.com/vsommah/vsommah/blob/output/github-contribution-grid-snake.svg)
