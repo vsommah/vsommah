@@ -8,7 +8,7 @@
   
 </head>
   
-<body style="display: inline_block">
+<body>
   
   <div>
     <a href="https://github.com/vsommah">
