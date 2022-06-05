@@ -6,12 +6,12 @@
 
 <div>
   <a href="https://github.com/vsommah">
-  <img align="left" width="500em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="VHS-card" height="400em" src="https://raw.githubusercontent.com/gist/vsommah/706a7be3a4d7d82b018c90840543d996/raw/ea92cc8ae305adcd55112f832712c94f3da67c4b/vhs-githubcard.svg">
-  <img align="left" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/>
+  <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="VHS-card" height="350em" src="https://raw.githubusercontent.com/gist/vsommah/706a7be3a4d7d82b018c90840543d996/raw/ea92cc8ae305adcd55112f832712c94f3da67c4b/vhs-githubcard.svg">
+  <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/>
 </div> 
 
-<br><br>  
+<br> 
 
 ##
 
