@@ -12,8 +12,8 @@
   
   <div>
     <a href="https://github.com/vsommah">
-    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&count_private=true"/>
-    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/>
+    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=vsommah&show_icons=true&theme=gotham&count_private=true"/><br>
+    <img align="left" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsommah&layout=compact&langs_count=7&theme=gotham"/><br>
   </div>
     
   <br> &nbsp;
