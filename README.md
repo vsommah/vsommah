@@ -37,5 +37,3 @@
 </body>
 
 ##
-  
-![Snake animation](https://github.com/vsommah/vsommah/blob/output/github-contribution-grid-snake.svg)
